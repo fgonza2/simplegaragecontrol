@@ -22,7 +22,7 @@ This is really simple, but it is documented here for you to do.
 - Home assistant installed and working in your environment
 
 ## Hardware Skills
-- Very basic soldering skills
+- Very basic soldering skills (no SMD) you need to solder one transistor (3 pins) + a 2 pin cable
 
 # Theory of operation
 
