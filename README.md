@@ -25,3 +25,10 @@ This is really simple, but it is documented here for you to do.
 - Very basic soldering skills
 
 # Theory of operation
+
+Use ESPhome to control a pin that closes the contact of the garage opener for half a second.  That is then integrated into home assistant where you can setup a template cover entity that will give you then control of your garage door from home assistant. 
+
+First you need to setup the hardware, here is a high level diagram:
+
+![alt text](https://github.com/fgonza2/simplegaragecontrol/blob/main/main%20diagram.svg)
+
