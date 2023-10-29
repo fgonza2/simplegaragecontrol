@@ -22,3 +22,5 @@ This is really simple, but it is documented here for you to do.
 
 ## Hardware Skills
 - Very basic soldering skills
+
+# Theory of operation
