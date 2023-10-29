@@ -15,7 +15,7 @@ This is really simple, but it is documented here for you to do.
 ## Hardware Requirements
 - ESP32 or esp8266 microcontroller with a power adapter
 - An unused garage opener that you can devote to this - it will be modified.  You can use it again, but it needs to be connected all the time to the ESP32
-- A contact sensor to detect tha state of the garage door (any zigbee or zwave contact/door sensor will do!)
+- A contact sensor to detect the state of the garage door (any zigbee or zwave contact/door sensor will do!)
 
 ## Software requirements
 - Ability to flash ESPhome on a microcontroller - see ESPhome website
