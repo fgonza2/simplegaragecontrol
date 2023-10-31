@@ -2,8 +2,11 @@
 
 Control and automate your Garage Doors.
 This is a simple solution to control your garage door using an ESP microcontroller and ESPHome  The intent of this is to monitor and automate a regular motorized garage.
-The motivation of this really simple solution was to have local control via Home Assistant.  I was using the myQ integration which is dependent on the cloud and also no longer has a working external API ans of October 2023
-This is really simple, but it is documented here for you to do. 
+
+# Motivation
+Local control via Home Assistant, no dependencies.  The myq home assistant integration is broken and unlikely to ever be reliable. Chamberlain / LiftMaster / MyQ is hostile to 3rd party use of their API. Consider using a different brand if you want a garage door opener that works with Home Assistant (as of October 2023)
+
+This is simple solution to address that problem
 
 ## Features
 - Monitor your garage door status (open/closed)
